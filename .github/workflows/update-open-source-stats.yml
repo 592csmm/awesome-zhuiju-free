@@ -4,6 +4,14 @@ on:
   schedule:
     - cron: "0 1 * * 1"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-open-source-stats.yml"
+      - "resources/resources.json"
+      - "scripts/update-open-source-stats.mjs"
+      - "scripts/sync-readme.mjs"
 
 permissions:
   contents: write
@@ -25,7 +33,7 @@ jobs:
       - name: Update open source stats
         run: node scripts/update-open-source-stats.mjs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
       - name: Sync featured resources to README
         run: node scripts/sync-readme.mjs
       - name: Validate data
