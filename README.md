@@ -23,9 +23,9 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-81_个资源-00A98F?style=flat-square" alt="已收录 81 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-82_个资源-00A98F?style=flat-square" alt="已收录 82 个资源" height="24"></a>
 <!-- resource-count:end -->
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--07--26-00B4D8?style=flat-square" alt="检测时间 2026-07-26" height="24"></a>
+  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--07--27-00B4D8?style=flat-square" alt="检测时间 2026-07-27" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/forks"><img src="https://img.shields.io/github/forks/laoma2053/awesome-zhuiju-free?style=flat-square&label=Forks&color=38BDF8" alt="GitHub Forks" height="24"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/许可证-CC_BY_4.0-6F42C1?style=flat-square" alt="许可证 CC BY 4.0" height="24"></a>
@@ -73,7 +73,7 @@
   <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-15-38BDF8?style=flat-square" alt="TVBox/影视仓配置地址"></a>
   <a href="#直播源"><img src="https://img.shields.io/badge/直播源-1-E91E63?style=flat-square" alt="直播源"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-F97316?style=flat-square" alt="会员拼团"></a>
-  <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-12-181717?style=flat-square" alt="开源项目"></a>
+  <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-13-181717?style=flat-square" alt="开源项目"></a>
 </p>
 
 <details>
@@ -221,7 +221,7 @@
 | 肥猫 | `http://肥猫.net/` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fei-mao -->🟢&#8288;可&#8288;访问<!-- /availability:fei-mao --> | <!-- availability-date:fei-mao -->2026&#8209;07&#8209;27<!-- /availability-date:fei-mao --> |
 | 小盒子4K | `http://xhztv.top/4k.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-he-zi-4k -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-4k --> | <!-- availability-date:xiao-he-zi-4k -->2026&#8209;07&#8209;27<!-- /availability-date:xiao-he-zi-4k --> |
 | 老刘备 | `https://raw.liucn.cc/box/m.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:lao-liu-bei -->🟢&#8288;可&#8288;访问<!-- /availability:lao-liu-bei --> | <!-- availability-date:lao-liu-bei -->2026&#8209;07&#8209;27<!-- /availability-date:lao-liu-bei --> |
-| 小马 | `https://szyyds.cn/tv/x.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-ma -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-ma --> | <!-- availability-date:xiao-ma -->2026&#8209;07&#8209;27<!-- /availability-date:xiao-ma --> |
+| 小马 | `https://szyyds.cn/tv/x.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-ma -->🔴&#8288;无法&#8288;访问<!-- /availability:xiao-ma --> | <!-- availability-date:xiao-ma -->2026&#8209;07&#8209;27<!-- /availability-date:xiao-ma --> |
 | 小盒子单仓 | `http://xhztv.top/xhz` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-he-zi-single -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-single --> | <!-- availability-date:xiao-he-zi-single -->2026&#8209;07&#8209;27<!-- /availability-date:xiao-he-zi-single --> |
 | VOX | `http://rihou.cc:88/demo.php` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:vox -->🟢&#8288;可&#8288;访问<!-- /availability:vox --> | <!-- availability-date:vox -->2026&#8209;07&#8209;27<!-- /availability-date:vox --> |
 | 嗷呜 | `http://itv666.cc/aowu/config.webp` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ao-wu -->🟢&#8288;可&#8288;访问<!-- /availability:ao-wu --> | <!-- availability-date:ao-wu -->2026&#8209;07&#8209;27<!-- /availability-date:ao-wu --> |
@@ -263,6 +263,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 | [SeleneTV](<https://github.com/MoonTechLab/Selene>) | MoonTV v100/Helios 后端客户端 | 2,361 | 待更新 | 2026-05-25 |
 | [WebHomeTV](<https://github.com/fish2018/webhtv>) | 基于 FongMi/CatVod 二开的 Android 影音应用 | 911 | 待更新 | 2026-07-17 |
 | [WebHomeTV2](<https://github.com/Silent1566/webhtv>) | 基于 WebHomeTV 二开，支持 TMDB 海报 | 304 | 待更新 | 2026-07-18 |
+| [sky-tv](<https://github.com/sky22333/sky-tv>) | skytv skytv 是一个现代化跨平台视频播放器空壳应用，支持导入用户自己的 | 79 | 待更新 | 2026-07-26 |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 <!-- featured-resources:end -->
@@ -371,6 +372,11 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 <td align="center" width="96">
   <a href="https://github.com/moeyukisako"><img src="https://images.weserv.nl/?url=github.com/moeyukisako.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@moeyukisako"></a><br>
   <sub><strong>@moeyukisako</strong></sub><br>
+  <sub>1 个资源</sub>
+</td>
+<td align="center" width="96">
+  <a href="https://github.com/sky22333"><img src="https://images.weserv.nl/?url=github.com/sky22333.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@sky22333"></a><br>
+  <sub><strong>@sky22333</strong></sub><br>
   <sub>1 个资源</sub>
 </td>
 </tr>

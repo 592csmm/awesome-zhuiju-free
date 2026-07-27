@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-07-19",
+  "updated_at": "2026-07-27",
   "resources": [
     {
       "id": "no-video",
@@ -3724,6 +3724,54 @@
         "added_at": "2026-07-19"
       },
       "featured": true
+    },
+    {
+      "id": "github-com-12",
+      "name": "sky-tv",
+      "url": "https://github.com/sky22333/sky-tv",
+      "category": "open_source",
+      "summary": "## sky-tv\n\nsky-tv 是一个现代化跨平台视频播放器空壳应用，支持导入用户自己的影视源和 IPTV 直播源，用于搜索、分类、播放、收藏和继续观看。\n\n<div style=\"display:inline-block\">\n<img src=\"https://cdn.jsdelivr.net/gh/sky22333/sky-tv@main/docs/img/1.jpg\" alt=\"demo1\" width=\"230\">\n<img src=\"https://cdn.jsdelivr.net/gh/sky22333/sky-tv@main/docs/img/2.jpg\" alt=\"demo2\" width=\"230\">\n<img src=\"https://cdn.jsdelivr.net/gh/sky22333/sky-tv@main/docs/img/3.jpg\" alt=\"demo3\" width=\"230\">\n</div>\n\n<div style=\"display:inline-block\">\n<img src=\"https://cdn.jsdelivr.net/gh/sky22333/sky-tv@main/docs/img/4.jpg\" alt=\"demo4\" width=\"230\">\n<img src=\"https://cdn.jsdelivr.net/gh/sky22333/sky-tv@main/docs/img/5.jpg\" alt=\"demo5\" width=\"230\">\n<img src=\"https://cdn.jsdelivr.net/gh/sky22333/sky-tv@main/docs/img/6.jpg\" alt=\"demo6\" width=\"230\">\n</div>\n\n## 主要功能\n\n- 影视源订阅导入，支持 maccms V10 常见接口。\n- IPTV 订阅导入，支持 M3U、M3U8、TXT 和 JSON 订阅。\n- 视频搜索、分类浏览、详情页、选集播放。\n- 直播频道分组、搜索、播放和换台。\n- 收藏、观看历史、继续观看。\n- 自定义 User-Agent 请求头。\n- 浅色、深色和跟随系统主题。\n- 多平台支持。",
+      "summary_short": "skytv skytv 是一个现代化跨平台视频播放器空壳应用，支持导入用户自己的",
+      "tags": [
+        "开源项目"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "low"
+      },
+      "verification": {
+        "status": "recommended",
+        "last_checked": "2026-07-27",
+        "method": "manual",
+        "notes": "维护者 @laoma2053 已通过 ok 确认收录。 测试信息：206-7-20。 提交者风险说明：sky-tv 只是个空壳播放器：\n\n- 不内置任何影视、直播、频道、节目单或解析服务。\n- 不提供任何视频内容、下载内容或版权资源。\n- 项目开发者不对用户的使用行为承担任何法律责任。\n- 用户应在遵守其所在国家或地区法律法规的前提下使用本软件。\n- 本项目是基于技术学习和交流为目开发的开源软件。"
+      },
+      "source": {
+        "submitted_by": "@sky22333",
+        "added_at": "2026-07-27"
+      },
+      "featured": true,
+      "github": {
+        "full_name": "sky22333/sky-tv",
+        "stars": 79,
+        "weekly_stars": null,
+        "pushed_at": "2026-07-25T16:42:10Z"
+      }
     }
   ]
 }
