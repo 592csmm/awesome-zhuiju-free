@@ -263,7 +263,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 | [SeleneTV](<https://github.com/MoonTechLab/Selene>) | MoonTV v100/Helios 后端客户端 | 2,361 | 待更新 | 2026-05-25 |
 | [WebHomeTV](<https://github.com/fish2018/webhtv>) | 基于 FongMi/CatVod 二开的 Android 影音应用 | 911 | 待更新 | 2026-07-17 |
 | [WebHomeTV2](<https://github.com/Silent1566/webhtv>) | 基于 WebHomeTV 二开，支持 TMDB 海报 | 304 | 待更新 | 2026-07-18 |
-| [sky-tv](<https://github.com/sky22333/sky-tv>) | skytv skytv 是一个现代化跨平台视频播放器空壳应用，支持导入用户自己的 | 79 | 待更新 | 2026-07-26 |
+| [sky-tv](<https://github.com/sky22333/sky-tv>) | 现代化跨平台视频播放器空壳应用 | 79 | 待更新 | 2026-07-26 |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 <!-- featured-resources:end -->
