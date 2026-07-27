@@ -188,6 +188,8 @@ jobs:
               return;
             }
 
+            const githubStats =
+              category === "open_source" ? await fetchGitHubStats(normalizedUrl) : null;
             const maintainerContent = parseMaintainerContent(parsedCommand.note);
             const maintainerSummary = maintainerContent.summary || maintainerContent.freeform;
             const summary = [userSummary, maintainerSummary].filter(Boolean).join("\n");
@@ -231,7 +233,8 @@ jobs:
                 submitted_by: `@${issue.user.login}`,
                 added_at: today
               },
-              featured: true
+              featured: true,
+              ...(githubStats ? { github: githubStats } : {})
             };
 
             resourcesData.updated_at = today;
@@ -257,6 +260,40 @@ jobs:
                 command,
                 note: [sameLineNote, rest].filter(Boolean).join("\n").trim()
               };
+            }
+
+            async function fetchGitHubStats(resourceUrl) {
+              const fullName = githubFullNameFromUrl(resourceUrl);
+              if (!fullName) {
+                core.setFailed("Open source resources must use a GitHub repository URL.");
+                throw new Error("Open source resources must use a GitHub repository URL.");
+              }
+              const [repoOwner, repoName] = fullName.split("/");
+              const response = await github.rest.repos.get({
+                owner: repoOwner,
+                repo: repoName
+              });
+              return {
+                full_name: response.data.full_name,
+                stars: response.data.stargazers_count,
+                weekly_stars: null,
+                pushed_at: response.data.pushed_at
+              };
+            }
+
+            function githubFullNameFromUrl(resourceUrl) {
+              const parsedUrl = new URL(resourceUrl);
+              if (parsedUrl.hostname.toLowerCase() !== "github.com") {
+                return "";
+              }
+              const [repoOwner, repoName] = parsedUrl.pathname
+                .split("/")
+                .filter(Boolean)
+                .slice(0, 2);
+              if (!repoOwner || !repoName) {
+                return "";
+              }
+              return `${repoOwner}/${repoName.replace(/\.git$/i, "")}`;
             }
 
             function parseMaintainerContent(value) {
