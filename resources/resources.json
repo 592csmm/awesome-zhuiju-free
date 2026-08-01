@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-07-27",
+  "updated_at": "2026-08-01",
   "resources": [
     {
       "id": "no-video",
@@ -3638,6 +3638,233 @@
       "source": {
         "submitted_by": "@LFNHHHHH",
         "added_at": "2026-07-10"
+      },
+      "featured": true
+    },
+    {
+      "id": "yangke-peekpro",
+      "name": "羊壳 PeekPro",
+      "url": "https://b.zhuiju.me/archives/19/",
+      "category": "player",
+      "summary": "基于 FongMi 二开，优化主题、弹幕、播放器体验。",
+      "summary_short": "基于 FongMi 二开，优化主题、弹幕、播放器体验",
+      "tags": [
+        "TVBox",
+        "影视仓",
+        "FongMi",
+        "Android TV"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-01",
+        "method": "manual",
+        "notes": "维护者补充的 TVBox/影视仓空壳资源，按 5 星收录；基于 FongMi 二开，优化主题、弹幕、播放器体验，后续由自动检测刷新可访问状态。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-01"
+      },
+      "featured": true
+    },
+    {
+      "id": "webhometv-player",
+      "name": "WebHomeTV",
+      "url": "https://b.zhuiju.me/archives/18/",
+      "category": "player",
+      "summary": "基于 FongMi / CatVod 二次开发，重点增强首页等 8 项。",
+      "summary_short": "基于 FongMi / CatVod 二次开发，重点增强首页等8项",
+      "tags": [
+        "TVBox",
+        "影视仓",
+        "FongMi",
+        "CatVod",
+        "Android TV"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-01",
+        "method": "manual",
+        "notes": "维护者补充的 TVBox/影视仓空壳资源，按 5 星收录；基于 FongMi / CatVod 二次开发，重点增强首页等 8 项，后续由自动检测刷新可访问状态。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-01"
+      },
+      "featured": true
+    },
+    {
+      "id": "ok-yingshi-player",
+      "name": "OK影视",
+      "url": "https://b.zhuiju.me/archives/17/",
+      "category": "player",
+      "summary": "OK影视版 = FongMi蜂蜜版 + 各种新功能。",
+      "summary_short": "OK影视版 = FongMi蜂蜜版 + 各种新功能",
+      "tags": [
+        "TVBox",
+        "影视仓",
+        "FongMi",
+        "Android TV"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-01",
+        "method": "manual",
+        "notes": "维护者补充的 TVBox/影视仓空壳资源，按 5 星收录；OK影视版 = FongMi蜂蜜版 + 各种新功能，后续由自动检测刷新可访问状态。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-01"
+      },
+      "featured": true
+    },
+    {
+      "id": "fongmi-fengmi",
+      "name": "FongMi 蜂蜜版",
+      "url": "https://b.zhuiju.me/archives/16/",
+      "category": "player",
+      "summary": "基于 CatVod 二开，支持 Android TV 大屏和手机。",
+      "summary_short": "基于 CatVod 二开 ，支持Android TV大屏和手机",
+      "tags": [
+        "TVBox",
+        "影视仓",
+        "FongMi",
+        "CatVod",
+        "Android TV",
+        "Android"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-01",
+        "method": "manual",
+        "notes": "维护者补充的 TVBox/影视仓空壳资源，按 5 星收录；基于 CatVod 二开，支持 Android TV 大屏和手机，后续由自动检测刷新可访问状态。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-01"
+      },
+      "featured": true
+    },
+    {
+      "id": "yingshicang-player",
+      "name": "影视仓",
+      "url": "https://b.zhuiju.me/archives/15/",
+      "category": "player",
+      "summary": "基于 TVBox 二次开发，魔改版本里知名度最高。",
+      "summary_short": "基于 TVBox 二次开发，魔改版本里知名度最高",
+      "tags": [
+        "TVBox",
+        "影视仓",
+        "Android TV"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-01",
+        "method": "manual",
+        "notes": "维护者补充的 TVBox/影视仓空壳资源，按 5 星收录；基于 TVBox 二次开发，是魔改版本里知名度较高的空壳应用，后续由自动检测刷新可访问状态。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-01"
       },
       "featured": true
     },

@@ -767,6 +767,61 @@
       "checked_at": "2026-08-01T01:41:21.100Z",
       "attempts": 1,
       "error": null
+    },
+    {
+      "resource_id": "yangke-peekpro",
+      "url": "https://b.zhuiju.me/archives/19/",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": null,
+      "checked_at": "2026-08-01T00:00:00.000+08:00",
+      "attempts": 0,
+      "error": "Pending automated availability check"
+    },
+    {
+      "resource_id": "webhometv-player",
+      "url": "https://b.zhuiju.me/archives/18/",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": null,
+      "checked_at": "2026-08-01T00:00:00.000+08:00",
+      "attempts": 0,
+      "error": "Pending automated availability check"
+    },
+    {
+      "resource_id": "ok-yingshi-player",
+      "url": "https://b.zhuiju.me/archives/17/",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": null,
+      "checked_at": "2026-08-01T00:00:00.000+08:00",
+      "attempts": 0,
+      "error": "Pending automated availability check"
+    },
+    {
+      "resource_id": "fongmi-fengmi",
+      "url": "https://b.zhuiju.me/archives/16/",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": null,
+      "checked_at": "2026-08-01T00:00:00.000+08:00",
+      "attempts": 0,
+      "error": "Pending automated availability check"
+    },
+    {
+      "resource_id": "yingshicang-player",
+      "url": "https://b.zhuiju.me/archives/15/",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": null,
+      "checked_at": "2026-08-01T00:00:00.000+08:00",
+      "attempts": 0,
+      "error": "Pending automated availability check"
     }
   ]
 }

@@ -23,9 +23,9 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-82_个资源-00A98F?style=flat-square" alt="已收录 82 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-87_个资源-00A98F?style=flat-square" alt="已收录 87 个资源" height="24"></a>
 <!-- resource-count:end -->
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--07--31-00B4D8?style=flat-square" alt="检测时间 2026-07-31" height="24"></a>
+  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--08--01-00B4D8?style=flat-square" alt="检测时间 2026-08-01" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/forks"><img src="https://img.shields.io/github/forks/laoma2053/awesome-zhuiju-free?style=flat-square&label=Forks&color=38BDF8" alt="GitHub Forks" height="24"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/许可证-CC_BY_4.0-6F42C1?style=flat-square" alt="许可证 CC BY 4.0" height="24"></a>
@@ -69,7 +69,7 @@
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-4285F4?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-11-F7B801?style=flat-square" alt="磁力& BT"></a>
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-6F42C1?style=flat-square" alt="字幕资源"></a>
-  <a href="#tvbox影视仓空壳"><img src="https://img.shields.io/badge/TVBox%2F影视仓空壳-2-00B4D8?style=flat-square" alt="TVBox/影视仓空壳"></a>
+  <a href="#tvbox影视仓空壳"><img src="https://img.shields.io/badge/TVBox%2F影视仓空壳-7-00B4D8?style=flat-square" alt="TVBox/影视仓空壳"></a>
   <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-15-38BDF8?style=flat-square" alt="TVBox/影视仓配置地址"></a>
   <a href="#直播源"><img src="https://img.shields.io/badge/直播源-1-E91E63?style=flat-square" alt="直播源"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-F97316?style=flat-square" alt="会员拼团"></a>
@@ -206,6 +206,11 @@
 
 | 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
+| [羊壳 PeekPro](<https://b.zhuiju.me/archives/19/>) | 基于 FongMi 二开，优化主题、弹幕、播放器体验 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yangke-peekpro -->⚪&#8288;未&#8288;检测<!-- /availability:yangke-peekpro --> | <!-- availability-date:yangke-peekpro -->2026&#8209;08&#8209;01<!-- /availability-date:yangke-peekpro --> |
+| [WebHomeTV](<https://b.zhuiju.me/archives/18/>) | 基于 FongMi / CatVod 二次开发，重点增强首页等8项 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:webhometv-player -->⚪&#8288;未&#8288;检测<!-- /availability:webhometv-player --> | <!-- availability-date:webhometv-player -->2026&#8209;08&#8209;01<!-- /availability-date:webhometv-player --> |
+| [OK影视](<https://b.zhuiju.me/archives/17/>) | OK影视版 = FongMi蜂蜜版 + 各种新功能 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ok-yingshi-player -->⚪&#8288;未&#8288;检测<!-- /availability:ok-yingshi-player --> | <!-- availability-date:ok-yingshi-player -->2026&#8209;08&#8209;01<!-- /availability-date:ok-yingshi-player --> |
+| [FongMi 蜂蜜版](<https://b.zhuiju.me/archives/16/>) | 基于 CatVod 二开 ，支持Android TV大屏和手机 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fongmi-fengmi -->⚪&#8288;未&#8288;检测<!-- /availability:fongmi-fengmi --> | <!-- availability-date:fongmi-fengmi -->2026&#8209;08&#8209;01<!-- /availability-date:fongmi-fengmi --> |
+| [影视仓](<https://b.zhuiju.me/archives/15/>) | 基于 TVBox 二次开发，魔改版本里知名度最高 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yingshicang-player -->⚪&#8288;未&#8288;检测<!-- /availability:yingshicang-player --> | <!-- availability-date:yingshicang-player -->2026&#8209;08&#8209;01<!-- /availability-date:yingshicang-player --> |
 | [Kodi](<https://kodi.tv/>) | 开源、跨平台家庭媒体中心 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:kodi -->🟡&#8288;访问&#8288;受限<!-- /availability:kodi --> | <!-- availability-date:kodi -->2026&#8209;08&#8209;01<!-- /availability-date:kodi --> |
 | [FongMi 影视](<https://tv.xn--yhqu5zs87a.top/>) | tvbox二开/带视频源，手机端/平板端已测试 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:tv-xn-yhqu5zs87a-top-3 -->🟢&#8288;可&#8288;访问<!-- /availability:tv-xn-yhqu5zs87a-top-3 --> | <!-- availability-date:tv-xn-yhqu5zs87a-top-3 -->2026&#8209;08&#8209;01<!-- /availability-date:tv-xn-yhqu5zs87a-top-3 --> |
 
