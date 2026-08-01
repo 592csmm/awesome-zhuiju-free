@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-87_个资源-00A98F?style=flat-square" alt="已收录 87 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-88_个资源-00A98F?style=flat-square" alt="已收录 88 个资源" height="24"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--08--01-00B4D8?style=flat-square" alt="检测时间 2026-08-01" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
@@ -64,7 +64,7 @@
 
 <!-- featured-resources:start -->
 <p align="center">
-  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-30-0A66C2?style=flat-square" alt="在线影视"></a>
+  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-31-0A66C2?style=flat-square" alt="在线影视"></a>
   <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-3-00A98F?style=flat-square" alt="影视APP"></a>
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-4285F4?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-11-F7B801?style=flat-square" alt="磁力& BT"></a>
@@ -97,7 +97,7 @@
 | [IFN](<https://ifn.watch/register?code=8B1EF6>) | 为数不多的真4K，部分免费 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ifn -->🟢&#8288;可&#8288;访问<!-- /availability:ifn --> | <!-- availability-date:ifn -->2026&#8209;08&#8209;01<!-- /availability-date:ifn --> |
 | [蛋蛋魔法](<https://ddmf.net>) | 国内外热播剧，有福利伦理片（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ddmf -->🟡&#8288;访问&#8288;受限<!-- /availability:ddmf --> | <!-- availability-date:ddmf -->2026&#8209;08&#8209;01<!-- /availability-date:ddmf --> |
 | [青空次元](<https://www.sorani.net>) | 网友称最夯动漫在线站 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sorani -->🟢&#8288;可&#8288;访问<!-- /availability:sorani --> | <!-- availability-date:sorani -->2026&#8209;08&#8209;01<!-- /availability-date:sorani --> |
-| [APP影院](<https://www.appmovie.art>) | 国内外热播剧，纯净无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:appmovie -->🟡&#8288;访问&#8288;受限<!-- /availability:appmovie --> | <!-- availability-date:appmovie -->2026&#8209;08&#8209;01<!-- /availability-date:appmovie --> |
+| [APP影院](<https://www.appmovie.art>) | 国内外热播剧，纯净无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:appmovie -->🟢&#8288;可&#8288;访问<!-- /availability:appmovie --> | <!-- availability-date:appmovie -->2026&#8209;08&#8209;01<!-- /availability-date:appmovie --> |
 | [Auete影视](<https://www.aeete.com>) | 蓝光超清精品影视，发布页auete.pro | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:auete-video -->🟢&#8288;可&#8288;访问<!-- /availability:auete-video --> | <!-- availability-date:auete-video -->2026&#8209;08&#8209;01<!-- /availability-date:auete-video --> |
 | [电影人生](<https://dyrs.tv>) | 高清电影在线观看 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:dyrs -->🟢&#8288;可&#8288;访问<!-- /availability:dyrs --> | <!-- availability-date:dyrs -->2026&#8209;08&#8209;01<!-- /availability-date:dyrs --> |
 | [黑夜影院](<https://darkvod.com>) | 综合影视/资源多/无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:darkvod -->🟡&#8288;访问&#8288;受限<!-- /availability:darkvod --> | <!-- availability-date:darkvod -->2026&#8209;08&#8209;01<!-- /availability-date:darkvod --> |
@@ -110,6 +110,7 @@
 | [金牌影视](<https://www.vv3nwjk.com>) | 全网VIP资源（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:jpyy -->🔴&#8288;无法&#8288;访问<!-- /availability:jpyy --> | <!-- availability-date:jpyy -->2026&#8209;08&#8209;01<!-- /availability-date:jpyy --> |
 | [937影视](<https://www.937tv.vip>) | 看全网影视剧（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:tv-937 -->🟡&#8288;访问&#8288;受限<!-- /availability:tv-937 --> | <!-- availability-date:tv-937 -->2026&#8209;08&#8209;01<!-- /availability-date:tv-937 --> |
 | [注视影视](<https://gaze.red/>) | 国内海外影视剧资源（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:gaze-red -->🟡&#8288;访问&#8288;受限<!-- /availability:gaze-red --> | <!-- availability-date:gaze-red -->2026&#8209;08&#8209;01<!-- /availability-date:gaze-red --> |
+| [4k影视](<https://www.4kvm.cc/>) | 整个网站界面较为简洁，资源更新快，还能用磁力下载。（需要梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:4kvm-cc-18 -->🟢&#8288;可&#8288;访问<!-- /availability:4kvm-cc-18 --> | <!-- availability-date:4kvm-cc-18 -->2026&#8209;08&#8209;01<!-- /availability-date:4kvm-cc-18 --> |
 | [光速影视](<https://www.yingshiso.link/>) | 作为备选，纯净无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:guangsu-yingshi -->🟢&#8288;可&#8288;访问<!-- /availability:guangsu-yingshi --> | <!-- availability-date:guangsu-yingshi -->2026&#8209;08&#8209;01<!-- /availability-date:guangsu-yingshi --> |
 | [布布追剧](<https://bubuzhuiju.com>) | 速度快，有广告能接受 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:bubu-zhuiju -->🟢&#8288;可&#8288;访问<!-- /availability:bubu-zhuiju --> | <!-- availability-date:bubu-zhuiju -->2026&#8209;08&#8209;01<!-- /availability-date:bubu-zhuiju --> |
 | [影猫仓库](<https://www.ymck.pro>) | 热门影视剧，有广告能接受 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yingmao-cangku -->🟡&#8288;访问&#8288;受限<!-- /availability:yingmao-cangku --> | <!-- availability-date:yingmao-cangku -->2026&#8209;08&#8209;01<!-- /availability-date:yingmao-cangku --> |
@@ -229,7 +230,7 @@
 | 小马 | `https://szyyds.cn/tv/x.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-ma -->🔴&#8288;无法&#8288;访问<!-- /availability:xiao-ma --> | <!-- availability-date:xiao-ma -->2026&#8209;08&#8209;01<!-- /availability-date:xiao-ma --> |
 | 小盒子单仓 | `http://xhztv.top/xhz` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-he-zi-single -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-single --> | <!-- availability-date:xiao-he-zi-single -->2026&#8209;08&#8209;01<!-- /availability-date:xiao-he-zi-single --> |
 | VOX | `http://rihou.cc:88/demo.php` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:vox -->🟢&#8288;可&#8288;访问<!-- /availability:vox --> | <!-- availability-date:vox -->2026&#8209;08&#8209;01<!-- /availability-date:vox --> |
-| 嗷呜 | `http://itv666.cc/aowu/config.webp` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ao-wu -->🔴&#8288;无法&#8288;访问<!-- /availability:ao-wu --> | <!-- availability-date:ao-wu -->2026&#8209;08&#8209;01<!-- /availability-date:ao-wu --> |
+| 嗷呜 | `http://itv666.cc/aowu/config.webp` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ao-wu -->🟢&#8288;可&#8288;访问<!-- /availability:ao-wu --> | <!-- availability-date:ao-wu -->2026&#8209;08&#8209;01<!-- /availability-date:ao-wu --> |
 | 无名 | `https://6800.kstore.vip/fish.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:wu-ming -->🟢&#8288;可&#8288;访问<!-- /availability:wu-ming --> | <!-- availability-date:wu-ming -->2026&#8209;08&#8209;01<!-- /availability-date:wu-ming --> |
 | 小盒子多仓 | `http://xhztv.top/dc` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-he-zi-multi -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-multi --> | <!-- availability-date:xiao-he-zi-multi -->2026&#8209;08&#8209;01<!-- /availability-date:xiao-he-zi-multi --> |
 | 拾光多仓 | `http://xmbjm.fh4u.org/dc.txt` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:shi-guang-multi -->🟢&#8288;可&#8288;访问<!-- /availability:shi-guang-multi --> | <!-- availability-date:shi-guang-multi -->2026&#8209;08&#8209;01<!-- /availability-date:shi-guang-multi --> |
@@ -382,6 +383,11 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 <td align="center" width="96">
   <a href="https://github.com/sky22333"><img src="https://images.weserv.nl/?url=github.com/sky22333.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@sky22333"></a><br>
   <sub><strong>@sky22333</strong></sub><br>
+  <sub>1 个资源</sub>
+</td>
+<td align="center" width="96">
+  <a href="https://github.com/Function21"><img src="https://images.weserv.nl/?url=github.com/Function21.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@Function21"></a><br>
+  <sub><strong>@Function21</strong></sub><br>
   <sub>1 个资源</sub>
 </td>
 </tr>

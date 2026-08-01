@@ -3999,6 +3999,48 @@
         "weekly_stars": null,
         "pushed_at": "2026-07-25T16:42:10Z"
       }
+    },
+    {
+      "id": "4kvm-cc-18",
+      "name": "4k影视",
+      "url": "https://www.4kvm.cc/",
+      "category": "online_video",
+      "summary": "整个网站界面较为简洁，资源更新快，还能用磁力下载。（需要梯子）",
+      "summary_short": "整个网站界面较为简洁，资源更新快，还能用磁力下载。（需要梯子）",
+      "tags": [
+        "在线影视"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-01",
+        "method": "manual",
+        "notes": "维护者 @laoma2053 已通过 ok 确认收录。 测试信息：2026-08-01，中国大陆。 提交者风险说明：有一点小广告，开始播放视频如果不用广告拦截器广告5秒后可关闭。"
+      },
+      "source": {
+        "submitted_by": "@Function21",
+        "added_at": "2026-08-01"
+      },
+      "featured": true
     }
   ]
 }
