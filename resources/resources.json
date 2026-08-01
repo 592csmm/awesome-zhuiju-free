@@ -3027,9 +3027,9 @@
       "featured_order": 1,
       "github": {
         "full_name": "mtvpls/MoonTVPlus",
-        "stars": 2743,
+        "stars": 2869,
         "weekly_stars": null,
-        "pushed_at": "2026-07-11T02:07:50Z"
+        "pushed_at": "2026-07-31T14:28:04Z"
       }
     },
     {
@@ -3078,7 +3078,7 @@
       "featured_order": 2,
       "github": {
         "full_name": "Hiram-Wong/zyfun",
-        "stars": 8670,
+        "stars": 8711,
         "weekly_stars": null,
         "pushed_at": "2026-06-25T14:11:54Z"
       }
@@ -3129,9 +3129,9 @@
       "featured_order": 3,
       "github": {
         "full_name": "Guovin/iptv-api",
-        "stars": 24642,
+        "stars": 24757,
         "weekly_stars": null,
-        "pushed_at": "2026-07-16T09:14:10Z"
+        "pushed_at": "2026-07-29T06:06:48Z"
       }
     },
     {
@@ -3180,9 +3180,9 @@
       "featured_order": 4,
       "github": {
         "full_name": "iptv-org/iptv",
-        "stars": 133221,
+        "stars": 134836,
         "weekly_stars": null,
-        "pushed_at": "2026-07-18T00:25:48Z"
+        "pushed_at": "2026-08-01T00:28:19Z"
       }
     },
     {
@@ -3231,7 +3231,7 @@
       "featured_order": 5,
       "github": {
         "full_name": "fish2018/pansou",
-        "stars": 13908,
+        "stars": 14056,
         "weekly_stars": null,
         "pushed_at": "2026-06-14T14:06:26Z"
       }
@@ -3282,7 +3282,7 @@
       "featured_order": 6,
       "github": {
         "full_name": "jiangrui1994/CloudSaver",
-        "stars": 9081,
+        "stars": 9114,
         "weekly_stars": null,
         "pushed_at": "2026-04-20T03:28:29Z"
       }
@@ -3333,7 +3333,7 @@
       "featured_order": 7,
       "github": {
         "full_name": "Cp0204/quark-auto-save",
-        "stars": 2929,
+        "stars": 2957,
         "weekly_stars": null,
         "pushed_at": "2026-07-09T11:44:49Z"
       }
@@ -3384,9 +3384,9 @@
       "featured_order": 8,
       "github": {
         "full_name": "open-ani/animeko",
-        "stars": 18935,
+        "stars": 19233,
         "weekly_stars": null,
-        "pushed_at": "2026-07-18T08:00:54Z"
+        "pushed_at": "2026-08-01T14:11:44Z"
       }
     },
     {
@@ -3436,9 +3436,9 @@
       "featured_order": 9,
       "github": {
         "full_name": "Predidit/Kazumi",
-        "stars": 27792,
+        "stars": 28308,
         "weekly_stars": null,
-        "pushed_at": "2026-07-18T13:32:26Z"
+        "pushed_at": "2026-08-01T10:03:06Z"
       }
     },
     {
@@ -3488,7 +3488,7 @@
       "featured_order": 10,
       "github": {
         "full_name": "MoonTechLab/Selene",
-        "stars": 2361,
+        "stars": 2407,
         "weekly_stars": null,
         "pushed_at": "2026-05-25T10:26:26Z"
       }
@@ -3541,9 +3541,9 @@
       "featured_order": 11,
       "github": {
         "full_name": "fish2018/webhtv",
-        "stars": 911,
+        "stars": 1051,
         "weekly_stars": null,
-        "pushed_at": "2026-07-17T10:40:54Z"
+        "pushed_at": "2026-08-01T14:33:16Z"
       }
     },
     {
@@ -3594,9 +3594,9 @@
       "featured_order": 12,
       "github": {
         "full_name": "Silent1566/webhtv",
-        "stars": 304,
+        "stars": 375,
         "weekly_stars": null,
-        "pushed_at": "2026-07-18T15:07:30Z"
+        "pushed_at": "2026-08-01T15:32:10Z"
       }
     },
     {
@@ -4000,9 +4000,115 @@
       "featured": true,
       "github": {
         "full_name": "sky22333/sky-tv",
-        "stars": 79,
+        "stars": 81,
         "weekly_stars": null,
         "pushed_at": "2026-07-25T16:42:10Z"
+      }
+    },
+    {
+      "id": "yangke-peekpro-picktv",
+      "name": "羊壳 PeekPro",
+      "url": "https://github.com/ingriddaleusag-dotcom/PickTV",
+      "category": "open_source",
+      "summary": "羊壳 PeekPro 是基于 FongMi/TV 优化 UI 的开源项目。",
+      "summary_short": "基于 FongMi/TV 优化 UI",
+      "tags": [
+        "开源项目",
+        "Android",
+        "FongMi",
+        "TVBox",
+        "影音应用"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "free",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "low"
+      },
+      "verification": {
+        "status": "recommended",
+        "last_checked": "2026-08-01",
+        "method": "manual",
+        "notes": "根据 GitHub 公开仓库信息收录；star 数、最近一周 Star 与仓库更新时间来自 GitHub API。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-01"
+      },
+      "featured": true,
+      "featured_order": 13,
+      "github": {
+        "full_name": "ingriddaleusag-dotcom/PickTV",
+        "stars": 679,
+        "weekly_stars": null,
+        "pushed_at": "2026-07-30T10:37:09Z"
+      }
+    },
+    {
+      "id": "fongmi-tv",
+      "name": "FongMi TV",
+      "url": "https://github.com/FongMi/TV",
+      "category": "open_source",
+      "summary": "FongMi TV 是基于 CatVod 的开源 Android 影音应用。",
+      "summary_short": "基于 CatVod 的开源 Android 影音应用",
+      "tags": [
+        "开源项目",
+        "Android",
+        "FongMi",
+        "CatVod",
+        "影音应用"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "free",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "low"
+      },
+      "verification": {
+        "status": "recommended",
+        "last_checked": "2026-08-01",
+        "method": "manual",
+        "notes": "根据 GitHub 公开仓库信息收录；star 数、最近一周 Star 与仓库更新时间来自 GitHub API。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-01"
+      },
+      "featured": true,
+      "featured_order": 14,
+      "github": {
+        "full_name": "FongMi/TV",
+        "stars": 8689,
+        "weekly_stars": null,
+        "pushed_at": "2026-06-29T17:00:58Z"
       }
     },
     {
@@ -4010,11 +4116,10 @@
       "name": "4k影视",
       "url": "https://www.4kvm.cc/",
       "category": "online_video",
-      "summary": "界面简洁/更新快/含磁力，有广告能接受（需梯子）。",
-      "summary_short": "界面简洁/更新快/含磁力，有广告能接受（需梯子）",
+      "summary": "界面简洁，有广告能接受（需梯子）。",
+      "summary_short": "界面简洁，有广告能接受（需梯子）",
       "tags": [
         "在线影视",
-        "磁力",
         "有广告",
         "需梯子"
       ],
@@ -4042,7 +4147,7 @@
         "status": "caution",
         "last_checked": "2026-08-01",
         "method": "manual",
-        "notes": "根据用户补充更新简介为界面简洁/更新快/含磁力，有广告能接受（需梯子）。维护者 @laoma2053 已通过 ok 确认收录。测试信息：2026-08-01，中国大陆。提交者风险说明：有一点小广告，开始播放视频如果不用广告拦截器广告5秒后可关闭。"
+        "notes": "根据用户补充更新简介为界面简洁，有广告能接受（需梯子）。维护者 @laoma2053 已通过 ok 确认收录。测试信息：2026-08-01，中国大陆。提交者风险说明：有一点小广告，开始播放视频如果不用广告拦截器广告5秒后可关闭。"
       },
       "source": {
         "submitted_by": "@Function21",

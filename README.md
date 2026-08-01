@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-88_个资源-00A98F?style=flat-square" alt="已收录 88 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-90_个资源-00A98F?style=flat-square" alt="已收录 90 个资源" height="24"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--08--01-00B4D8?style=flat-square" alt="检测时间 2026-08-01" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
@@ -73,7 +73,7 @@
   <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-15-38BDF8?style=flat-square" alt="TVBox/影视仓配置地址"></a>
   <a href="#直播源"><img src="https://img.shields.io/badge/直播源-1-E91E63?style=flat-square" alt="直播源"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-F97316?style=flat-square" alt="会员拼团"></a>
-  <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-13-181717?style=flat-square" alt="开源项目"></a>
+  <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-15-181717?style=flat-square" alt="开源项目"></a>
 </p>
 
 <details>
@@ -110,7 +110,7 @@
 | [金牌影视](<https://www.vv3nwjk.com>) | 全网VIP资源（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:jpyy -->🔴&#8288;无法&#8288;访问<!-- /availability:jpyy --> | <!-- availability-date:jpyy -->2026&#8209;08&#8209;01<!-- /availability-date:jpyy --> |
 | [937影视](<https://www.937tv.vip>) | 看全网影视剧（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:tv-937 -->🟡&#8288;访问&#8288;受限<!-- /availability:tv-937 --> | <!-- availability-date:tv-937 -->2026&#8209;08&#8209;01<!-- /availability-date:tv-937 --> |
 | [注视影视](<https://gaze.red/>) | 国内海外影视剧资源（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:gaze-red -->🟡&#8288;访问&#8288;受限<!-- /availability:gaze-red --> | <!-- availability-date:gaze-red -->2026&#8209;08&#8209;01<!-- /availability-date:gaze-red --> |
-| [4k影视](<https://www.4kvm.cc/>) | 界面简洁/更新快/含磁力，有广告能接受（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:4kvm-cc-18 -->🟢&#8288;可&#8288;访问<!-- /availability:4kvm-cc-18 --> | <!-- availability-date:4kvm-cc-18 -->2026&#8209;08&#8209;01<!-- /availability-date:4kvm-cc-18 --> |
+| [4k影视](<https://www.4kvm.cc/>) | 界面简洁，有广告能接受（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:4kvm-cc-18 -->🟢&#8288;可&#8288;访问<!-- /availability:4kvm-cc-18 --> | <!-- availability-date:4kvm-cc-18 -->2026&#8209;08&#8209;01<!-- /availability-date:4kvm-cc-18 --> |
 | [光速影视](<https://www.yingshiso.link/>) | 作为备选，纯净无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:guangsu-yingshi -->🟢&#8288;可&#8288;访问<!-- /availability:guangsu-yingshi --> | <!-- availability-date:guangsu-yingshi -->2026&#8209;08&#8209;01<!-- /availability-date:guangsu-yingshi --> |
 | [布布追剧](<https://bubuzhuiju.com>) | 速度快，有广告能接受 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:bubu-zhuiju -->🟢&#8288;可&#8288;访问<!-- /availability:bubu-zhuiju --> | <!-- availability-date:bubu-zhuiju -->2026&#8209;08&#8209;01<!-- /availability-date:bubu-zhuiju --> |
 | [影猫仓库](<https://www.ymck.pro>) | 热门影视剧，有广告能接受 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yingmao-cangku -->🟡&#8288;访问&#8288;受限<!-- /availability:yingmao-cangku --> | <!-- availability-date:yingmao-cangku -->2026&#8209;08&#8209;01<!-- /availability-date:yingmao-cangku --> |
@@ -257,19 +257,21 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 
 | 资源 | 简介 | star数 | 最近一周 Star | 仓库更新时间 |
 | --- | --- | :---: | :---: | :---: |
-| [iptv](<https://github.com/iptv-org/iptv>) | 全球公开 IPTV 频道集合 | 133,221 | 待更新 | 2026-07-18 |
-| [Kazumi](<https://github.com/Predidit/Kazumi>) | 免费无广告的番剧采集与在线观看 | 27,792 | 待更新 | 2026-07-18 |
-| [iptv-api](<https://github.com/Guovin/iptv-api>) | IPTV 直播源自动采集筛选更新平台 | 24,642 | 待更新 | 2026-07-16 |
-| [Animeko](<https://github.com/open-ani/animeko>) | 一站式弹幕追番平台 | 18,935 | 待更新 | 2026-07-18 |
-| [pansou](<https://github.com/fish2018/pansou>) | 高性能网盘资源搜索 API 服务 | 13,908 | 待更新 | 2026-06-14 |
-| [CloudSaver](<https://github.com/jiangrui1994/CloudSaver>) | 网盘资源搜索与转存工具 | 9,081 | 待更新 | 2026-04-20 |
-| [zyfun](<https://github.com/Hiram-Wong/zyfun>) | 跨平台桌面端视频资源播放器 | 8,670 | 待更新 | 2026-06-25 |
-| [quark-auto-save](<https://github.com/Cp0204/quark-auto-save>) | 夸克网盘自动签到转存整理工具 | 2,929 | 待更新 | 2026-07-09 |
-| [MoonTVPlus](<https://github.com/mtvpls/MoonTVPlus>) | MoonTV 增强版影视聚合播放器 | 2,743 | 待更新 | 2026-07-11 |
-| [SeleneTV](<https://github.com/MoonTechLab/Selene>) | MoonTV v100/Helios 后端客户端 | 2,361 | 待更新 | 2026-05-25 |
-| [WebHomeTV](<https://github.com/fish2018/webhtv>) | 基于 FongMi/CatVod 二开的 Android 影音应用 | 911 | 待更新 | 2026-07-17 |
-| [WebHomeTV2](<https://github.com/Silent1566/webhtv>) | 基于 WebHomeTV 二开，支持 TMDB 海报 | 304 | 待更新 | 2026-07-18 |
-| [sky-tv](<https://github.com/sky22333/sky-tv>) | 现代化跨平台视频播放器空壳应用 | 79 | 待更新 | 2026-07-26 |
+| [iptv](<https://github.com/iptv-org/iptv>) | 全球公开 IPTV 频道集合 | 134,836 | 待更新 | 2026-08-01 |
+| [Kazumi](<https://github.com/Predidit/Kazumi>) | 免费无广告的番剧采集与在线观看 | 28,308 | 待更新 | 2026-08-01 |
+| [iptv-api](<https://github.com/Guovin/iptv-api>) | IPTV 直播源自动采集筛选更新平台 | 24,757 | 待更新 | 2026-07-29 |
+| [Animeko](<https://github.com/open-ani/animeko>) | 一站式弹幕追番平台 | 19,233 | 待更新 | 2026-08-01 |
+| [pansou](<https://github.com/fish2018/pansou>) | 高性能网盘资源搜索 API 服务 | 14,056 | 待更新 | 2026-06-14 |
+| [CloudSaver](<https://github.com/jiangrui1994/CloudSaver>) | 网盘资源搜索与转存工具 | 9,114 | 待更新 | 2026-04-20 |
+| [zyfun](<https://github.com/Hiram-Wong/zyfun>) | 跨平台桌面端视频资源播放器 | 8,711 | 待更新 | 2026-06-25 |
+| [FongMi TV](<https://github.com/FongMi/TV>) | 基于 CatVod 的开源 Android 影音应用 | 8,689 | 待更新 | 2026-06-30 |
+| [quark-auto-save](<https://github.com/Cp0204/quark-auto-save>) | 夸克网盘自动签到转存整理工具 | 2,957 | 待更新 | 2026-07-09 |
+| [MoonTVPlus](<https://github.com/mtvpls/MoonTVPlus>) | MoonTV 增强版影视聚合播放器 | 2,869 | 待更新 | 2026-07-31 |
+| [SeleneTV](<https://github.com/MoonTechLab/Selene>) | MoonTV v100/Helios 后端客户端 | 2,407 | 待更新 | 2026-05-25 |
+| [WebHomeTV](<https://github.com/fish2018/webhtv>) | 基于 FongMi/CatVod 二开的 Android 影音应用 | 1,051 | 待更新 | 2026-08-01 |
+| [羊壳 PeekPro](<https://github.com/ingriddaleusag-dotcom/PickTV>) | 基于 FongMi/TV 优化 UI | 679 | 待更新 | 2026-07-30 |
+| [WebHomeTV2](<https://github.com/Silent1566/webhtv>) | 基于 WebHomeTV 二开，支持 TMDB 海报 | 375 | 待更新 | 2026-08-01 |
+| [sky-tv](<https://github.com/sky22333/sky-tv>) | 现代化跨平台视频播放器空壳应用 | 81 | 待更新 | 2026-07-26 |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 <!-- featured-resources:end -->
