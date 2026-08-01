@@ -3646,8 +3646,8 @@
       "name": "羊壳 PeekPro",
       "url": "https://b.zhuiju.me/archives/19/",
       "category": "player",
-      "summary": "基于 FongMi 二开，优化主题、弹幕、播放器体验。",
-      "summary_short": "基于 FongMi 二开，优化主题、弹幕、播放器体验",
+      "summary": "基于 FongMi 二开，优化主题、弹幕等。",
+      "summary_short": "基于 FongMi 二开，优化主题、弹幕等",
       "tags": [
         "TVBox",
         "影视仓",
@@ -3684,15 +3684,16 @@
         "submitted_by": "maintainer",
         "added_at": "2026-08-01"
       },
-      "featured": true
+      "featured": true,
+      "featured_order": 5
     },
     {
       "id": "webhometv-player",
       "name": "WebHomeTV",
       "url": "https://b.zhuiju.me/archives/18/",
       "category": "player",
-      "summary": "基于 FongMi / CatVod 二次开发，重点增强首页等 8 项。",
-      "summary_short": "基于 FongMi / CatVod 二次开发，重点增强首页等8项",
+      "summary": "基于 FongMi / CatVod 二次开发，增强了 8 项。",
+      "summary_short": "基于 FongMi / CatVod 二次开发，增强了8项",
       "tags": [
         "TVBox",
         "影视仓",
@@ -3730,7 +3731,8 @@
         "submitted_by": "maintainer",
         "added_at": "2026-08-01"
       },
-      "featured": true
+      "featured": true,
+      "featured_order": 4
     },
     {
       "id": "ok-yingshi-player",
@@ -3775,15 +3777,16 @@
         "submitted_by": "maintainer",
         "added_at": "2026-08-01"
       },
-      "featured": true
+      "featured": true,
+      "featured_order": 3
     },
     {
       "id": "fongmi-fengmi",
-      "name": "FongMi 蜂蜜版",
+      "name": "FongMi 蜂蜜",
       "url": "https://b.zhuiju.me/archives/16/",
       "category": "player",
-      "summary": "基于 CatVod 二开，支持 Android TV 大屏和手机。",
-      "summary_short": "基于 CatVod 二开 ，支持Android TV大屏和手机",
+      "summary": "基于 CatVod 二开，支持 Android TV 和手机。",
+      "summary_short": "基于 CatVod 二开 ，支持Android TV和手机",
       "tags": [
         "TVBox",
         "影视仓",
@@ -3822,7 +3825,8 @@
         "submitted_by": "maintainer",
         "added_at": "2026-08-01"
       },
-      "featured": true
+      "featured": true,
+      "featured_order": 2
     },
     {
       "id": "yingshicang-player",
@@ -3866,7 +3870,8 @@
         "submitted_by": "maintainer",
         "added_at": "2026-08-01"
       },
-      "featured": true
+      "featured": true,
+      "featured_order": 1
     },
     {
       "id": "sidhub-cc-7",
