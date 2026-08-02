@@ -179,7 +179,7 @@
 
 | 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
-| [磁力帝](<https://www.cld123.com>) | 地址发布页cldi.top | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:cilidi -->⚪&#8288;未&#8288;检测<!-- /availability:cilidi --> | <!-- availability-date:cilidi -->2026&#8209;08&#8209;02<!-- /availability-date:cilidi --> |
+| [磁力帝](<https://www.cld123.com>) | 地址发布页cldi.top | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:cilidi -->🟡&#8288;访问&#8288;受限<!-- /availability:cilidi --> | <!-- availability-date:cilidi -->2026&#8209;08&#8209;02<!-- /availability-date:cilidi --> |
 | [SeedHub](<https://sidhub.cc/>) | 影视&动漫分享，页面纯净、无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sidhub-cc-7 -->🟡&#8288;访问&#8288;受限<!-- /availability:sidhub-cc-7 --> | <!-- availability-date:sidhub-cc-7 -->2026&#8209;08&#8209;02<!-- /availability-date:sidhub-cc-7 --> |
 | [4K原盘](<https://pomo.mom>) | 4K原盘免费下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:4k-yuanpan -->🟢&#8288;可&#8288;访问<!-- /availability:4k-yuanpan --> | <!-- availability-date:4k-yuanpan -->2026&#8209;08&#8209;02<!-- /availability-date:4k-yuanpan --> |
 | [BT世界网](<https://www.btsj6.com>) | 高清电影美剧BT种子迅雷下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:btshijiewang -->🟢&#8288;可&#8288;访问<!-- /availability:btshijiewang --> | <!-- availability-date:btshijiewang -->2026&#8209;08&#8209;02<!-- /availability-date:btshijiewang --> |
