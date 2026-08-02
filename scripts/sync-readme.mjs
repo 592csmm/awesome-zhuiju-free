@@ -353,11 +353,21 @@ function openSourceTableFor(resources) {
 ${rows}`;
 }
 
+function categoryIntro(categoryId) {
+  if (categoryId === "tvbox_config") {
+    return "> 不知道怎么配置？[点击查看接口配置教程（图文版）](https://b.zhuiju.me/archives/5/)";
+  }
+
+  return "";
+}
+
 function categorySection(category, resources, availabilityById) {
   const categoryResources = sortFeaturedResources(
     resources.filter((resource) => resource.category === category.id),
     category.id
   );
+  const intro = categoryIntro(category.id);
+  const introBlock = intro ? `${intro}\n\n` : "";
   let content;
 
   if (categoryResources.length > 0) {
@@ -381,7 +391,7 @@ function categorySection(category, resources, availabilityById) {
 
   return `### ${category.name}
 
-${content}
+${introBlock}${content}
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>`;
 }

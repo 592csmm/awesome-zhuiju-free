@@ -220,6 +220,8 @@
 
 ### TVBox/影视仓配置地址
 
+> 不知道怎么配置？[点击查看接口配置教程（图文版）](https://b.zhuiju.me/archives/5/)
+
 | 资源 | 地址 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
 | [饭太硬](<https://www.饭太硬.cc>) | `http://www.饭太硬.net/tv` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fan-tai-ying -->🟢&#8288;可&#8288;访问<!-- /availability:fan-tai-ying --> | <!-- availability-date:fan-tai-ying -->2026&#8209;08&#8209;02<!-- /availability-date:fan-tai-ying --> |
