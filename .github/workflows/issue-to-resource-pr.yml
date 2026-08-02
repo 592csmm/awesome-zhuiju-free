@@ -276,7 +276,6 @@ jobs:
               return {
                 full_name: response.data.full_name,
                 stars: response.data.stargazers_count,
-                weekly_stars: null,
                 pushed_at: response.data.pushed_at
               };
             }

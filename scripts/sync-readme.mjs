@@ -341,15 +341,12 @@ function openSourceTableFor(resources) {
   const starFormatter = new Intl.NumberFormat("en-US");
   const rows = resources
     .map((resource) => {
-      const weeklyStars = Number.isInteger(resource.github.weekly_stars)
-        ? `+${starFormatter.format(resource.github.weekly_stars)}`
-        : "待更新";
-      return `| ${markdownLink(resource.name, resource.url)} | ${markdownCell(shortSummary(resource))} | ${markdownCell(starFormatter.format(resource.github.stars))} | ${markdownCell(weeklyStars)} | ${markdownCell(plainDateInTimeZone(resource.github.pushed_at))} |`;
+      return `| ${markdownLink(resource.name, resource.url)} | ${markdownCell(shortSummary(resource))} | ${markdownCell(starFormatter.format(resource.github.stars))} | ${markdownCell(plainDateInTimeZone(resource.github.pushed_at))} |`;
     })
     .join("\n");
 
-  return `| 资源 | 简介 | star数 | 最近一周 Star | 仓库更新时间 |
-| --- | --- | :---: | :---: | :---: |
+  return `| 资源 | 简介 | star数 | 仓库更新时间 |
+| --- | --- | :---: | :---: |
 ${rows}`;
 }
 
