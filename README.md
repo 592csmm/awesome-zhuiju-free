@@ -97,7 +97,7 @@
 | [IFN](<https://ifn.watch/register?code=8B1EF6>) | 为数不多的真4K，部分免费 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ifn -->🟢&#8288;可&#8288;访问<!-- /availability:ifn --> | <!-- availability-date:ifn -->2026&#8209;08&#8209;02<!-- /availability-date:ifn --> |
 | [蛋蛋魔法](<https://ddmf.net>) | 国内外热播剧，有福利伦理片（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ddmf -->🟡&#8288;访问&#8288;受限<!-- /availability:ddmf --> | <!-- availability-date:ddmf -->2026&#8209;08&#8209;02<!-- /availability-date:ddmf --> |
 | [青空次元](<https://www.sorani.net>) | 网友称最夯动漫在线站 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sorani -->🟢&#8288;可&#8288;访问<!-- /availability:sorani --> | <!-- availability-date:sorani -->2026&#8209;08&#8209;02<!-- /availability-date:sorani --> |
-| [APP影院](<https://www.appmovie.art>) | 国内外热播剧，纯净无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:appmovie -->🟡&#8288;访问&#8288;受限<!-- /availability:appmovie --> | <!-- availability-date:appmovie -->2026&#8209;08&#8209;02<!-- /availability-date:appmovie --> |
+| [APP影院](<https://www.appmovie.art>) | 国内外热播剧，纯净无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:appmovie -->🟢&#8288;可&#8288;访问<!-- /availability:appmovie --> | <!-- availability-date:appmovie -->2026&#8209;08&#8209;02<!-- /availability-date:appmovie --> |
 | [Auete影视](<https://www.aeete.com>) | 蓝光超清精品影视，发布页auete.pro | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:auete-video -->🟢&#8288;可&#8288;访问<!-- /availability:auete-video --> | <!-- availability-date:auete-video -->2026&#8209;08&#8209;02<!-- /availability-date:auete-video --> |
 | [电影人生](<https://dyrs.tv>) | 高清电影在线观看 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:dyrs -->🟢&#8288;可&#8288;访问<!-- /availability:dyrs --> | <!-- availability-date:dyrs -->2026&#8209;08&#8209;02<!-- /availability-date:dyrs --> |
 | [黑夜影院](<https://darkvod.com>) | 综合影视/资源多/无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:darkvod -->🟡&#8288;访问&#8288;受限<!-- /availability:darkvod --> | <!-- availability-date:darkvod -->2026&#8209;08&#8209;02<!-- /availability-date:darkvod --> |
@@ -189,7 +189,7 @@
 | [电影港网](<https://www.dyg22.com>) | 无水印4K高清BT种子资源 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:dianyinggang -->🟢&#8288;可&#8288;访问<!-- /availability:dianyinggang --> | <!-- availability-date:dianyinggang -->2026&#8209;08&#8209;02<!-- /availability-date:dianyinggang --> |
 | [高清MP4](<https://www.mp4ba.vip>) | 免费1080电影4K电影 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:gaoqing-mp4 -->🟡&#8288;访问&#8288;受限<!-- /availability:gaoqing-mp4 --> | <!-- availability-date:gaoqing-mp4 -->2026&#8209;08&#8209;02<!-- /availability-date:gaoqing-mp4 --> |
 | [高清族](<https://hdzu.org>) | 1080P电影下载,4K电影下载 | 🌟&#8288;🌟&#8288;🌟 | <!-- availability:gaoqingzu -->🟢&#8288;可&#8288;访问<!-- /availability:gaoqingzu --> | <!-- availability-date:gaoqingzu -->2026&#8209;08&#8209;02<!-- /availability-date:gaoqingzu --> |
-| [磁力狗](<https://ciligou.net>) | 干净好用的磁力资源搜索 | 🌟&#8288;🌟&#8288;🌟 | <!-- availability:ciligou -->⚪&#8288;未&#8288;检测<!-- /availability:ciligou --> | <!-- availability-date:ciligou -->2026&#8209;08&#8209;02<!-- /availability-date:ciligou --> |
+| [磁力狗](<https://ciligou.net>) | 干净好用的磁力资源搜索 | 🌟&#8288;🌟&#8288;🌟 | <!-- availability:ciligou -->🟢&#8288;可&#8288;访问<!-- /availability:ciligou --> | <!-- availability-date:ciligou -->2026&#8209;08&#8209;02<!-- /availability-date:ciligou --> |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
