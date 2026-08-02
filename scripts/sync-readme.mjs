@@ -1,7 +1,12 @@
 import { readFile, writeFile } from "node:fs/promises";
+import { execFile } from "node:child_process";
+import { promisify } from "node:util";
+import { fileURLToPath } from "node:url";
 
 const root = new URL("../", import.meta.url);
+const rootPath = fileURLToPath(root);
 const resourcesPath = new URL("resources/resources.json", root);
+const verificationsPath = new URL("reports/verifications.json", root);
 const availabilityPath = new URL("reports/availability.json", root);
 const readmePath = new URL("README.md", root);
 const startMarker = "<!-- featured-resources:start -->";
@@ -12,6 +17,7 @@ const countStartMarker = "<!-- resource-count:start -->";
 const countEndMarker = "<!-- resource-count:end -->";
 const timeZone = "Asia/Shanghai";
 const ownerUsername = "laoma2053";
+const execFileAsync = promisify(execFile);
 
 const categories = [
   { id: "online_video", name: "在线影视", badge: "在线影视", color: "0A66C2" },
@@ -129,6 +135,54 @@ function latestAvailabilityTimestamp(availabilityData) {
 
 function badgePathDate(date) {
   return date.replaceAll("-", "--");
+}
+
+function todayInTimeZone() {
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  })
+    .formatToParts(new Date())
+    .reduce((result, part) => ({ ...result, [part.type]: part.value }), {});
+
+  return `${parts.year}-${parts.month}-${parts.day}`;
+}
+
+function replaceTopLevelUpdatedAt(text, date) {
+  return text.replace(
+    /("updated_at":\s*)"\d{4}-\d{2}-\d{2}"/,
+    `$1"${date}"`
+  );
+}
+
+function withoutTopLevelUpdatedAt(text) {
+  return replaceTopLevelUpdatedAt(text, "0000-00-00");
+}
+
+async function readHeadFile(path) {
+  try {
+    const { stdout } = await execFileAsync("git", ["show", `HEAD:${path}`], {
+      cwd: rootPath
+    });
+    return stdout;
+  } catch {
+    return null;
+  }
+}
+
+async function syncUpdatedAtWhenChanged({ gitPath, text }) {
+  const headText = await readHeadFile(gitPath);
+  if (headText === null) {
+    return text;
+  }
+
+  if (withoutTopLevelUpdatedAt(text) === withoutTopLevelUpdatedAt(headText)) {
+    return text;
+  }
+
+  return replaceTopLevelUpdatedAt(text, todayInTimeZone());
 }
 
 function shortSummary(resource) {
@@ -415,7 +469,27 @@ ${rows}
 ${contributorsEndMarker}`;
 }
 
-const resourcesData = JSON.parse(await readFile(resourcesPath, "utf8"));
+let resourcesText = await readFile(resourcesPath, "utf8");
+const updatedResourcesText = await syncUpdatedAtWhenChanged({
+  gitPath: "resources/resources.json",
+  text: resourcesText
+});
+if (updatedResourcesText !== resourcesText) {
+  await writeFile(resourcesPath, updatedResourcesText, "utf8");
+  resourcesText = updatedResourcesText;
+}
+
+let verificationsText = await readFile(verificationsPath, "utf8");
+const updatedVerificationsText = await syncUpdatedAtWhenChanged({
+  gitPath: "reports/verifications.json",
+  text: verificationsText
+});
+if (updatedVerificationsText !== verificationsText) {
+  await writeFile(verificationsPath, updatedVerificationsText, "utf8");
+  verificationsText = updatedVerificationsText;
+}
+
+const resourcesData = JSON.parse(resourcesText);
 const availabilityData = JSON.parse(await readFile(availabilityPath, "utf8"));
 const featuredResources = resourcesData.resources.filter((resource) => resource.featured);
 const availabilityById = new Map(

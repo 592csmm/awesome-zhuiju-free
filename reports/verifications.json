@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-08-02",
   "records": [
     {
       "id": "verify-20260606-initial",
@@ -165,7 +165,7 @@
         "network": "screenshot submitted"
       },
       "result": "pending_review",
-      "notes": "根据截图信息收录：磁力狗（https://clg56.top，测评备注：干净好用的磁力资源搜索），推荐指数为 5 星。截图中的访问状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与链接安全性。"
+      "notes": "根据截图信息收录：磁力狗（原地址 https://clg56.top，测评备注：干净好用的磁力资源搜索），当时推荐指数为 5 星。截图中的访问状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与链接安全性。"
     },
     {
       "id": "verify-20260704-bt-yingshi",
@@ -424,6 +424,21 @@
       },
       "result": "pending_review",
       "notes": "根据用户补充将 IFN 访问地址更新为 https://ifn.watch/register?code=8B1EF6，简介改为为数不多的真4K，部分免费；后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+    },
+    {
+      "id": "verify-20260802-ciligou-url-rating-update",
+      "resource_ids": [
+        "ciligou"
+      ],
+      "checked_at": "2026-08-02",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user submitted"
+      },
+      "result": "pending_review",
+      "notes": "根据用户补充将磁力狗访问地址从 https://clg56.top 更新为 https://ciligou.net，并将推荐指数从 5 星调整为 3 星；后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与链接安全性。"
     }
   ]
 }

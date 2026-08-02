@@ -25,7 +25,7 @@
   <!-- resource-count:start -->
 <a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-90_个资源-00A98F?style=flat-square" alt="已收录 90 个资源" height="24"></a>
 <!-- resource-count:end -->
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--08--01-00B4D8?style=flat-square" alt="检测时间 2026-08-01" height="24"></a>
+  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--08--02-00B4D8?style=flat-square" alt="检测时间 2026-08-02" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/forks"><img src="https://img.shields.io/github/forks/laoma2053/awesome-zhuiju-free?style=flat-square&label=Forks&color=38BDF8" alt="GitHub Forks" height="24"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/许可证-CC_BY_4.0-6F42C1?style=flat-square" alt="许可证 CC BY 4.0" height="24"></a>
@@ -182,7 +182,6 @@
 | [SeedHub](<https://sidhub.cc/>) | 影视&动漫分享，页面纯净、无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sidhub-cc-7 -->🟡&#8288;访问&#8288;受限<!-- /availability:sidhub-cc-7 --> | <!-- availability-date:sidhub-cc-7 -->2026&#8209;08&#8209;02<!-- /availability-date:sidhub-cc-7 --> |
 | [4K原盘](<https://pomo.mom>) | 4K原盘免费下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:4k-yuanpan -->🟢&#8288;可&#8288;访问<!-- /availability:4k-yuanpan --> | <!-- availability-date:4k-yuanpan -->2026&#8209;08&#8209;02<!-- /availability-date:4k-yuanpan --> |
 | [BT世界网](<https://www.btsj6.com>) | 高清电影美剧BT种子迅雷下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:btshijiewang -->🟢&#8288;可&#8288;访问<!-- /availability:btshijiewang --> | <!-- availability-date:btshijiewang -->2026&#8209;08&#8209;02<!-- /availability-date:btshijiewang --> |
-| [磁力狗](<https://clg56.top>) | 干净好用的磁力资源搜索 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ciligou -->🔴&#8288;无法&#8288;访问<!-- /availability:ciligou --> | <!-- availability-date:ciligou -->2026&#8209;08&#8209;02<!-- /availability-date:ciligou --> |
 | [BT影视](<https://www.btbtla.com>) | 4k高清电影BT下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:bt-yingshi -->🟢&#8288;可&#8288;访问<!-- /availability:bt-yingshi --> | <!-- availability-date:bt-yingshi -->2026&#8209;08&#8209;02<!-- /availability-date:bt-yingshi --> |
 | [美剧粉](<https://www.mjf2020.com>) | 全部高清无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:meijufen -->🟢&#8288;可&#8288;访问<!-- /availability:meijufen --> | <!-- availability-date:meijufen -->2026&#8209;08&#8209;02<!-- /availability-date:meijufen --> |
 | [磁力熊](<https://www.cilixiong.org>) | 无删减、无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:cilixiong -->🟢&#8288;可&#8288;访问<!-- /availability:cilixiong --> | <!-- availability-date:cilixiong -->2026&#8209;08&#8209;02<!-- /availability-date:cilixiong --> |
@@ -190,6 +189,7 @@
 | [电影港网](<https://www.dyg22.com>) | 无水印4K高清BT种子资源 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:dianyinggang -->🟢&#8288;可&#8288;访问<!-- /availability:dianyinggang --> | <!-- availability-date:dianyinggang -->2026&#8209;08&#8209;02<!-- /availability-date:dianyinggang --> |
 | [高清MP4](<https://www.mp4ba.vip>) | 免费1080电影4K电影 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:gaoqing-mp4 -->🟡&#8288;访问&#8288;受限<!-- /availability:gaoqing-mp4 --> | <!-- availability-date:gaoqing-mp4 -->2026&#8209;08&#8209;02<!-- /availability-date:gaoqing-mp4 --> |
 | [高清族](<https://hdzu.org>) | 1080P电影下载,4K电影下载 | 🌟&#8288;🌟&#8288;🌟 | <!-- availability:gaoqingzu -->🟢&#8288;可&#8288;访问<!-- /availability:gaoqingzu --> | <!-- availability-date:gaoqingzu -->2026&#8209;08&#8209;02<!-- /availability-date:gaoqingzu --> |
+| [磁力狗](<https://ciligou.net>) | 干净好用的磁力资源搜索 | 🌟&#8288;🌟&#8288;🌟 | <!-- availability:ciligou -->⚪&#8288;未&#8288;检测<!-- /availability:ciligou --> | <!-- availability-date:ciligou -->2026&#8209;08&#8209;02<!-- /availability-date:ciligou --> |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
