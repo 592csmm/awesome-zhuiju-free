@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-90_个资源-00A98F?style=flat-square" alt="已收录 90 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-91_个资源-00A98F?style=flat-square" alt="已收录 91 个资源" height="24"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--08--02-00B4D8?style=flat-square" alt="检测时间 2026-08-02" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
@@ -67,7 +67,7 @@
   <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-31-0A66C2?style=flat-square" alt="在线影视"></a>
   <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-3-00A98F?style=flat-square" alt="影视APP"></a>
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-4285F4?style=flat-square" alt="网盘资源搜索"></a>
-  <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-11-F7B801?style=flat-square" alt="磁力& BT"></a>
+  <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-12-F7B801?style=flat-square" alt="磁力& BT"></a>
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-6F42C1?style=flat-square" alt="字幕资源"></a>
   <a href="#tvbox影视仓空壳"><img src="https://img.shields.io/badge/TVBox%2F影视仓空壳-7-00B4D8?style=flat-square" alt="TVBox/影视仓空壳"></a>
   <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-15-38BDF8?style=flat-square" alt="TVBox/影视仓配置地址"></a>
@@ -179,6 +179,7 @@
 
 | 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
+| [磁力帝](<https://www.cld123.com>) | 地址发布页cldi.top | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:cilidi -->⚪&#8288;未&#8288;检测<!-- /availability:cilidi --> | <!-- availability-date:cilidi -->2026&#8209;08&#8209;02<!-- /availability-date:cilidi --> |
 | [SeedHub](<https://sidhub.cc/>) | 影视&动漫分享，页面纯净、无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sidhub-cc-7 -->🟡&#8288;访问&#8288;受限<!-- /availability:sidhub-cc-7 --> | <!-- availability-date:sidhub-cc-7 -->2026&#8209;08&#8209;02<!-- /availability-date:sidhub-cc-7 --> |
 | [4K原盘](<https://pomo.mom>) | 4K原盘免费下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:4k-yuanpan -->🟢&#8288;可&#8288;访问<!-- /availability:4k-yuanpan --> | <!-- availability-date:4k-yuanpan -->2026&#8209;08&#8209;02<!-- /availability-date:4k-yuanpan --> |
 | [BT世界网](<https://www.btsj6.com>) | 高清电影美剧BT种子迅雷下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:btshijiewang -->🟢&#8288;可&#8288;访问<!-- /availability:btshijiewang --> | <!-- availability-date:btshijiewang -->2026&#8209;08&#8209;02<!-- /availability-date:btshijiewang --> |

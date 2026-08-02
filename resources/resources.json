@@ -2531,6 +2531,50 @@
       "featured": true
     },
     {
+      "id": "cilidi",
+      "name": "磁力帝",
+      "url": "https://www.cld123.com",
+      "category": "magnet_search",
+      "summary": "地址发布页cldi.top。",
+      "summary_short": "地址发布页cldi.top",
+      "tags": [
+        "磁力",
+        "BT",
+        "发布页"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-02",
+        "method": "manual",
+        "notes": "根据用户补充收录：推荐指数 5 星，简介为地址发布页cldi.top；提交状态不作为本项目状态依据，内容来源、版权状态与链接安全性需要持续观察。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-02"
+      },
+      "featured": true
+    },
+    {
       "id": "bt-yingshi",
       "name": "BT影视",
       "url": "https://www.btbtla.com",

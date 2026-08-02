@@ -833,6 +833,17 @@
       "checked_at": "2026-08-02T02:10:39.047Z",
       "attempts": 1,
       "error": null
+    },
+    {
+      "resource_id": "cilidi",
+      "url": "https://www.cld123.com",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": null,
+      "checked_at": "2026-08-01T16:00:00.000Z",
+      "attempts": 0,
+      "error": "pending automated check"
     }
   ]
 }
