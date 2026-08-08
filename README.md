@@ -91,8 +91,8 @@
 
 | 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
-| [饭搭子影视](<https://fdzys.com>) | 最新热门电影电视剧动漫综艺 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fdzys -->🟡&#8288;访问&#8288;受限<!-- /availability:fdzys --> | <!-- availability-date:fdzys -->2026&#8209;08&#8209;08<!-- /availability-date:fdzys --> |
-| [SA视频](<https://www.lsjys11.com/>) | 最新电影电视剧动漫综艺 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sa-video -->⚪&#8288;未&#8288;检测<!-- /availability:sa-video --> | <!-- availability-date:sa-video -->2026&#8209;08&#8209;08<!-- /availability-date:sa-video --> |
+| [饭搭子影视](<https://fdzys.com>) | 最新热门电影电视剧动漫综艺 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fdzys -->🟢&#8288;可&#8288;访问<!-- /availability:fdzys --> | <!-- availability-date:fdzys -->2026&#8209;08&#8209;08<!-- /availability-date:fdzys --> |
+| [SA视频](<https://www.lsjys11.com/>) | 最新电影电视剧动漫综艺 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sa-video -->🟢&#8288;可&#8288;访问<!-- /availability:sa-video --> | <!-- availability-date:sa-video -->2026&#8209;08&#8209;08<!-- /availability-date:sa-video --> |
 | [爱看机器人](<https://www1.aikanbot.com>) | 全网热门的电影和电视剧榜单 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:aikanbot -->🟢&#8288;可&#8288;访问<!-- /availability:aikanbot --> | <!-- availability-date:aikanbot -->2026&#8209;08&#8209;08<!-- /availability-date:aikanbot --> |
 | [91毒舌](<https://www.duse0.com/>) | 最新Netflix新剧、4K高清（可访问） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:duse91 -->🔴&#8288;无法&#8288;访问<!-- /availability:duse91 --> | <!-- availability-date:duse91 -->2026&#8209;08&#8209;08<!-- /availability-date:duse91 --> |
 | [好好看](<https://www.hhkan2.com/>) | 4K高清Netflix新剧（可访问需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:haohaokan -->🔴&#8288;无法&#8288;访问<!-- /availability:haohaokan --> | <!-- availability-date:haohaokan -->2026&#8209;08&#8209;08<!-- /availability-date:haohaokan --> |
@@ -232,7 +232,7 @@
 | 肥猫 | `http://肥猫.net/` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fei-mao -->🟢&#8288;可&#8288;访问<!-- /availability:fei-mao --> | <!-- availability-date:fei-mao -->2026&#8209;08&#8209;08<!-- /availability-date:fei-mao --> |
 | 小盒子4K | `http://xhztv.top/4k.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-he-zi-4k -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-4k --> | <!-- availability-date:xiao-he-zi-4k -->2026&#8209;08&#8209;08<!-- /availability-date:xiao-he-zi-4k --> |
 | 老刘备 | `https://raw.liucn.cc/box/m.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:lao-liu-bei -->🟢&#8288;可&#8288;访问<!-- /availability:lao-liu-bei --> | <!-- availability-date:lao-liu-bei -->2026&#8209;08&#8209;08<!-- /availability-date:lao-liu-bei --> |
-| 小马 | `https://szyyds.cn/tv/x.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-ma -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-ma --> | <!-- availability-date:xiao-ma -->2026&#8209;08&#8209;08<!-- /availability-date:xiao-ma --> |
+| 小马 | `https://szyyds.cn/tv/x.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-ma -->🔴&#8288;无法&#8288;访问<!-- /availability:xiao-ma --> | <!-- availability-date:xiao-ma -->2026&#8209;08&#8209;08<!-- /availability-date:xiao-ma --> |
 | 小盒子单仓 | `http://xhztv.top/xhz` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-he-zi-single -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-single --> | <!-- availability-date:xiao-he-zi-single -->2026&#8209;08&#8209;08<!-- /availability-date:xiao-he-zi-single --> |
 | VOX | `http://rihou.cc:88/demo.php` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:vox -->🟢&#8288;可&#8288;访问<!-- /availability:vox --> | <!-- availability-date:vox -->2026&#8209;08&#8209;08<!-- /availability-date:vox --> |
 | 嗷呜 | `http://itv666.cc/aowu/config.webp` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ao-wu -->🟢&#8288;可&#8288;访问<!-- /availability:ao-wu --> | <!-- availability-date:ao-wu -->2026&#8209;08&#8209;08<!-- /availability-date:ao-wu --> |
