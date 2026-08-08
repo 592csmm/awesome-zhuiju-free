@@ -469,6 +469,21 @@
       },
       "result": "pending_review",
       "notes": "根据用户补充收录在线影视资源：饭搭子影视（https://fdzys.com，推荐指数 5 星，简介：最新热门电影电视剧动漫综艺）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+    },
+    {
+      "id": "verify-20260808-sa-video",
+      "resource_ids": [
+        "sa-video"
+      ],
+      "checked_at": "2026-08-08",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user submitted"
+      },
+      "result": "pending_review",
+      "notes": "根据用户补充收录在线影视资源：SA视频（https://www.lsjys11.com/，推荐指数 5 星，简介：最新电影电视剧动漫综艺）；本次页面探测超时，暂不据此判定可用性，后续由 GitHub Actions 自动检测，并持续观察版权状态与站点安全性。"
     }
   ]
 }

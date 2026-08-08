@@ -855,6 +855,17 @@
       "checked_at": "2026-08-08T15:37:02.029Z",
       "attempts": 1,
       "error": null
+    },
+    {
+      "resource_id": "sa-video",
+      "url": "https://www.lsjys11.com/",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": null,
+      "checked_at": "2026-08-08T15:42:07.682Z",
+      "attempts": 1,
+      "error": "Timeout fetching"
     }
   ]
 }
