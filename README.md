@@ -25,7 +25,7 @@
   <!-- resource-count:start -->
 <a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-93_个资源-00A98F?style=flat-square" alt="已收录 93 个资源" height="24"></a>
 <!-- resource-count:end -->
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--08--08-00B4D8?style=flat-square" alt="检测时间 2026-08-08" height="24"></a>
+  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--08--09-00B4D8?style=flat-square" alt="检测时间 2026-08-09" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/forks"><img src="https://img.shields.io/github/forks/laoma2053/awesome-zhuiju-free?style=flat-square&label=Forks&color=38BDF8" alt="GitHub Forks" height="24"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/许可证-CC_BY_4.0-6F42C1?style=flat-square" alt="许可证 CC BY 4.0" height="24"></a>
@@ -93,7 +93,6 @@
 | --- | --- | :---: | :---: | :---: |
 | [饭搭子影视](<https://fdzys.com>) | 最新热门电影电视剧动漫综艺 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fdzys -->🟢&#8288;可&#8288;访问<!-- /availability:fdzys --> | <!-- availability-date:fdzys -->2026&#8209;08&#8209;09<!-- /availability-date:fdzys --> |
 | [SA视频](<https://www.lsjys11.com/>) | 最新电影电视剧动漫综艺 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sa-video -->🟢&#8288;可&#8288;访问<!-- /availability:sa-video --> | <!-- availability-date:sa-video -->2026&#8209;08&#8209;09<!-- /availability-date:sa-video --> |
-| [爱看机器人](<https://www1.aikanbot.com>) | 全网热门的电影和电视剧榜单 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:aikanbot -->🟢&#8288;可&#8288;访问<!-- /availability:aikanbot --> | <!-- availability-date:aikanbot -->2026&#8209;08&#8209;09<!-- /availability-date:aikanbot --> |
 | [91毒舌](<https://www.duse0.com/>) | 最新Netflix新剧、4K高清（可访问） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:duse91 -->🔴&#8288;无法&#8288;访问<!-- /availability:duse91 --> | <!-- availability-date:duse91 -->2026&#8209;08&#8209;09<!-- /availability-date:duse91 --> |
 | [好好看](<https://www.hhkan2.com/>) | 4K高清Netflix新剧（可访问需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:haohaokan -->🔴&#8288;无法&#8288;访问<!-- /availability:haohaokan --> | <!-- availability-date:haohaokan -->2026&#8209;08&#8209;09<!-- /availability-date:haohaokan --> |
 | [IFN](<https://ifn.watch/register?code=8B1EF6>) | 为数不多的真4K，部分免费 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ifn -->🟢&#8288;可&#8288;访问<!-- /availability:ifn --> | <!-- availability-date:ifn -->2026&#8209;08&#8209;09<!-- /availability-date:ifn --> |
@@ -122,6 +121,7 @@
 | [No影视](<https://novipnoad.org/>) | 海外影视剧资源聚合站（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:no-video -->🟡&#8288;访问&#8288;受限<!-- /availability:no-video --> | <!-- availability-date:no-video -->2026&#8209;08&#8209;09<!-- /availability-date:no-video --> |
 | [搜TV啦](<https://www.sotvla.cc/>) | 国内海外高清影视剧资源 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sotvla -->🟢&#8288;可&#8288;访问<!-- /availability:sotvla --> | <!-- availability-date:sotvla -->2026&#8209;08&#8209;09<!-- /availability-date:sotvla --> |
 | [雪落影视](<https://xlys.me/>) | 国内海外影视剧资源（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xlys -->🟢&#8288;可&#8288;访问<!-- /availability:xlys --> | <!-- availability-date:xlys -->2026&#8209;08&#8209;09<!-- /availability-date:xlys --> |
+| [爱看机器人](<https://www1.aikanbot.com>) | 热门电影电视剧（有跳转广告） | 🌟&#8288;🌟&#8288;🌟 | <!-- availability:aikanbot -->🟢&#8288;可&#8288;访问<!-- /availability:aikanbot --> | <!-- availability-date:aikanbot -->2026&#8209;08&#8209;09<!-- /availability-date:aikanbot --> |
 | [奈菲影视](<https://www.nfyingshi.com>) | 热门美剧（需梯子/有VIP限制） | 🌟&#8288;🌟&#8288;🌟 | <!-- availability:nfyingshi -->🟢&#8288;可&#8288;访问<!-- /availability:nfyingshi --> | <!-- availability-date:nfyingshi -->2026&#8209;08&#8209;09<!-- /availability-date:nfyingshi --> |
 | [厂长资源](<https://www.czzymovie.com>) | 高清、秒播不卡顿，有广告 | 🌟&#8288;🌟&#8288;🌟 | <!-- availability:czzymovie -->🟡&#8288;访问&#8288;受限<!-- /availability:czzymovie --> | <!-- availability-date:czzymovie -->2026&#8209;08&#8209;09<!-- /availability-date:czzymovie --> |
 

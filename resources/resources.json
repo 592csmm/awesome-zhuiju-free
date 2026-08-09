@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-08-08",
+  "updated_at": "2026-08-09",
   "resources": [
     {
       "id": "no-video",
@@ -1111,13 +1111,14 @@
       "name": "爱看机器人",
       "url": "https://www1.aikanbot.com",
       "category": "online_video",
-      "summary": "全网热门的电影和电视剧榜单。",
-      "summary_short": "全网热门的电影和电视剧榜单",
+      "summary": "热门电影电视剧（有跳转广告）。",
+      "summary_short": "热门电影电视剧（有跳转广告）",
       "tags": [
         "在线影视",
         "电影",
         "电视剧",
-        "榜单"
+        "有广告",
+        "跳转广告"
       ],
       "access": {
         "requires_login": false,
@@ -1127,11 +1128,11 @@
         ]
       },
       "scores": {
-        "more": 5,
-        "speed": 5,
-        "clean": 5,
-        "stable": 5,
-        "ease": 5
+        "more": 3,
+        "speed": 3,
+        "clean": 3,
+        "stable": 3,
+        "ease": 3
       },
       "risks": {
         "copyright": "high",
@@ -1141,9 +1142,9 @@
       },
       "verification": {
         "status": "caution",
-        "last_checked": "2026-07-18",
+        "last_checked": "2026-08-09",
         "method": "manual",
-        "notes": "根据用户补充收录：推荐指数 5 星，简介为全网热门的电影和电视剧榜单；提交状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
+        "notes": "根据用户补充将推荐指数从 5 星调整为 3 星，简介更新为热门电影电视剧（有跳转广告）；后续由自动检测刷新可访问状态，并持续观察广告跳转、版权状态与站点安全性。"
       },
       "source": {
         "submitted_by": "maintainer",
