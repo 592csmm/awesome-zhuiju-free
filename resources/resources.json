@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-08-09",
+  "updated_at": "2026-08-10",
   "resources": [
     {
       "id": "no-video",
@@ -4274,6 +4274,48 @@
       "source": {
         "submitted_by": "maintainer",
         "added_at": "2026-08-08"
+      },
+      "featured": true
+    },
+    {
+      "id": "naifei-fyi-19",
+      "name": "奈飞工厂",
+      "url": "https://naifei.fyi/",
+      "category": "online_video",
+      "summary": "国区可访问，资源无广",
+      "summary_short": "国区可访问，资源无广",
+      "tags": [
+        "在线影视"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-05",
+        "method": "manual",
+        "notes": "维护者 @laoma2053 已通过 ok 确认收录。 测试信息：2026-08-05，中国大陆。 提交者风险说明：暂未发现"
+      },
+      "source": {
+        "submitted_by": "@xwx6164",
+        "added_at": "2026-08-10"
       },
       "featured": true
     }
